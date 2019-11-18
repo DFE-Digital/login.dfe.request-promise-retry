@@ -18,6 +18,7 @@
   "homepage": "https://github.com/DFE-Digital/login.dfe.request-promise-retry#readme",
   "dependencies": {
     "login.dfe.async-retry": "git+https://github.com/DFE-Digital/login.dfe.async-retry.git#v1.1",
+    "request": "^2.88.0",
     "request-promise": "^4.2.3"
   },
   "devDependencies": {
