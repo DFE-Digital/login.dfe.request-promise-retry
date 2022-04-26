@@ -18,16 +18,16 @@
   "homepage": "https://github.com/DFE-Digital/login.dfe.request-promise-retry#readme",
   "dependencies": {
     "login.dfe.async-retry": "git+https://github.com/DFE-Digital/login.dfe.async-retry.git#v1.1",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.3"
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   },
   "devDependencies": {
-    "eslint": "^6.5.1",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.18.2",
+    "eslint": "^8.14.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
     "install-peers": "^1.0.3",
-    "jest": "^24.9.0",
-    "jest-cli": "^24.9.0"
+    "jest": "^28.0.1",
+    "jest-cli": "^28.0.1"
   },
   "jest": {
     "testEnvironment": "node",
