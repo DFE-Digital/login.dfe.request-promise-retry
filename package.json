@@ -1,10 +1,10 @@
 {
   "name": "login.dfe.request-promise-retry",
-  "version": "1.0.0",
+  "version": "3.1.0",
   "description": "Wrapper of request-promise to support retries using login.dfe.async-retry",
   "main": "lib/index.js",
   "scripts": {
-    "test": "./node_modules/.bin/jest"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
